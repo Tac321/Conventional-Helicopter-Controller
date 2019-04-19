@@ -1,6 +1,7 @@
 ## Conventional-Helicopter-Controller
 Control of a conventional Helicopter configuration model using Feedback Linearization and Integral Backstepping control.
 
+This simulations begins with the chopper falling upside down. Activating the controller will initiate self righting maneuver and stabilize the chopper for further navigation commands.
 
 ## How to run
 ### Run code
