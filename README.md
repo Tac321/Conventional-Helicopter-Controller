@@ -13,7 +13,7 @@ Control of a conventional Helicopter configuration model using Feedback Lineariz
     ( Note: This simulation does alot of math, for faster view of the simulation, I reccomend running on desktop computer.
             snd closing other apps you are not using.)
     
-## Example
+## Illustration
 
 <img src="https://github.com/Tac321/Conventional-Helicopter-Controller/blob/master/Images/SelfRight_II.gif" width="700" />
 
