@@ -14,7 +14,9 @@ Control of a conventional Helicopter configuration model using Feedback Lineariz
             snd closing other apps you are not using.)
     
 ## Ilustration
-https://github.com/Tac321/Conventional-Helicopter-Controller/blob/master/Images/Chopper.png
+
+
+<img src="https://github.com/Tac321/Conventional-Helicopter-Controller/blob/master/Images/Chopper.png" width="700" />
 
 
 ## Example
